@@ -17,5 +17,7 @@ public class maths {
 	diff = cacio.diff(a, b);
 	System.out.println("the diff is " + diff);
 	
+	int product =cacio.mul(7, 6);
+	System.out.println("the prouct is " + product);
 	}
 }
